@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/auto-shop/static/css/main.cbdc0079.css",
+    "main.js": "/auto-shop/static/js/main.38d5921f.js",
+    "static/js/453.0ea7dacb.chunk.js": "/auto-shop/static/js/453.0ea7dacb.chunk.js",
+    "index.html": "/auto-shop/index.html",
+    "main.cbdc0079.css.map": "/auto-shop/static/css/main.cbdc0079.css.map",
+    "main.38d5921f.js.map": "/auto-shop/static/js/main.38d5921f.js.map",
+    "453.0ea7dacb.chunk.js.map": "/auto-shop/static/js/453.0ea7dacb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbdc0079.css",
+    "static/js/main.38d5921f.js"
+  ]
+}
